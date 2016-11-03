@@ -13,7 +13,6 @@ main ()
           resto=num%2;
           if (resto==0)
           {
-              cout<<"";
               cout<<num<<"; ";
               I++;
           }
